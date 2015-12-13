@@ -51,6 +51,14 @@
 		border-collapse: collapse;
 		border-spacing: 0;
 	}
+    
+    #intranet{
+        float: right;
+    }
+    
+    #voltar:hover {
+        color: aqua;
+    }
 
 	body {
 		-webkit-text-size-adjust: none;
